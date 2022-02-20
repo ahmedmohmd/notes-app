@@ -33,19 +33,19 @@ git clone https://github.com/a7m3d000/notes-app.git
 
 - **Add Note**
 
-```C#
+```javascript
 node app.js add --title="your note title" --content="your note body"
 ```
 
 - **Delete Note**
 
-```C#
+```javascript
 node app.js remove --title="note title"
 ```
 
 - **Read Note**
 
-```C#
+```javascript
 node app.js read --title="note title"
 ```
 
@@ -57,16 +57,15 @@ node app.js edit --title="old note title" --newTitle="new note title" --newConte
 
 - **List Notes**
 
-```C#
+```javascript
 node app.js list
 ```
 
 - **Clear Notes**
 
-```C#
+```javascript
 node app.js clear
 ```
 
 ### App Image
-
 ![App Image](/carbon.png)
