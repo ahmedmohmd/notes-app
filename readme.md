@@ -27,7 +27,12 @@ git clone https://github.com/a7m3d000/notes-app.git
 
 3. Open Your Terminal in This Repo Directory.
 
-4. Finally You can type your commands to use this App.
+4. Type The Following Command in your Terminal.
+ ```
+ npm install
+ ```
+
+5. Finally You can type your commands to use this App.
 
 ### Commands
 
