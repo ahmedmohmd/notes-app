@@ -17,7 +17,7 @@ Note app is a Terminal Program made by Note JS and other Libs & NPM Packages.
 ### How to Use
 
 1. Install Node Js in your Machine from the Following URL:
-   **[Node JS Download Link](https://nodejs.org/en/download/)**
+   **[Node JS](https://nodejs.org/en/download/)**
 
 2. Clone this Repo in your Machine buy following command:
 
