@@ -18,10 +18,10 @@ Note app is a Program that you can use it by terminal, It is made by Note JS and
 1. Install Node Js in your Machine from the Following URL:
    **[Node JS](https://nodejs.org/en/download/)**
 
-2. Clone this Repo in your Machine buy following command:
+2. Clone this Repo in your Machine by following command:
 
 ```
-git clone https://github.com/a7m3d000/notes-app.git
+https://github.com/ahmedmohmd/notes-app.git
 ```
 
 3. Open Your Terminal in This Repo Directory.
