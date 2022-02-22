@@ -13,7 +13,7 @@ Note app is a Terminal Program made by Note JS and other Libs & NPM Packages.
 </div>
 
 ## Other Libs & Packages:
-- [_**cli-table**_](https://www.npmjs.com/package/cli-table) Package
+- [_cli-table_](https://www.npmjs.com/package/cli-table) Package
 
 ### How to Use
 
