@@ -6,13 +6,14 @@ Note app is a Terminal Program made by Note JS and other Libs & NPM Packages.
 
 ### Technologies
 
-- _Node JS_
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://nodejs.org/en/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.npmjs.com/package/yargs"><img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.npmjs.com/package/chalk"><img src="https://raw.githubusercontent.com/chalk/chalk/HEAD/media/logo.svg" alt="drawing" width="48" height="48"/></a>
+</div>
 
-- _Yargs Package_
-
-- _Chalks Package_
-
-- _cli-table_
+## Other Libs & Packages:
+- [_**cli-table**_](https://www.npmjs.com/package/cli-table) Package
 
 ### How to Use
 
