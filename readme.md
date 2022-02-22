@@ -1,11 +1,9 @@
 ## **Notes App**
 
 ### Description
-
-Note app is a Terminal Program made by Note JS and other Libs & NPM Packages.
+Note app is a Program that you can use it by terminal, It is made by Note JS and other Libs & NPM Packages.
 
 ### Technologies
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://nodejs.org/en/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="drawing" width="48" height="48"/></a>
   <a href="https://www.npmjs.com/package/yargs"><img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="drawing" width="48" height="48"/></a>
@@ -15,8 +13,8 @@ Note app is a Terminal Program made by Note JS and other Libs & NPM Packages.
 ## Other Libs & Packages:
 - [_cli-table_](https://www.npmjs.com/package/cli-table) Package
 
-### How to Use
 
+### How to Use this App
 1. Install Node Js in your Machine from the Following URL:
    **[Node JS](https://nodejs.org/en/download/)**
 
@@ -35,8 +33,10 @@ git clone https://github.com/a7m3d000/notes-app.git
 
 5. Finally You can type your commands to use this App.
 
-### Commands
+6. Now you can use this app by open terminal in repo folder and just type app commands.
 
+
+### Commands
 - **Add Note**
 
 ```javascript
@@ -73,5 +73,5 @@ node app.js list
 node app.js clear
 ```
 
-### App Image
+### App Screenshot
 ![App Image](/carbon.png)
